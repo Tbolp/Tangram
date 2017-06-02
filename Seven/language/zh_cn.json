@@ -1,0 +1,19 @@
+{
+    "title": "七巧板",
+    "setting": "设置",
+    "reset": "重置",
+    "options": "选项",
+    "resize": "更改大小",
+    "size": "大小",
+    "ask_size": "输入大小",
+    "export": "导出",
+    "name": "文件名",
+    "ask_name": "输入文件名",
+    "info": "消息",
+    "save_success": "存储成功",
+    "save_failed": "存储失败",
+    "save": "保存",
+    "open": "打开",
+    "open_success": "打开成功",
+    "open_failed": "打开失败"
+}

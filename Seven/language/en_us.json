@@ -1,0 +1,19 @@
+{
+    "title": "Tangram",
+    "setting": "setting",
+    "reset": "reset",
+    "options": "options",
+    "resize": "resize",
+    "size": "size",
+    "ask_size": "input size",
+    "export": "export",
+    "name": "filename",
+    "ask_name": "input filename",
+    "info": "info",
+    "save_success": "save success",
+    "save_failed": "save failed",
+    "save": "save",
+    "open": "open",
+    "open_success": "open success",
+    "open_failed": "open failed"
+}
